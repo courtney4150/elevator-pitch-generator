@@ -1,4 +1,4 @@
-# Basics of Sustainable Development
+# Basics of Sustainable Development - Elevator Pitch
 
 Hello, welcome to the elevator pitch for our project! Our goal is to create a sustainable development training manual for fellow University of Pittsburgh students to increase interdisciplinary undergraduate investment in Pittsburgh’s future.
 
